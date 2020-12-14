@@ -1,0 +1,12 @@
+﻿  functions.cpp
+  Key.cpp
+  List.cpp
+  main.cpp
+  Random.cpp
+C:\Users\Jesse\OneDrive - TUNI.fi\AMK\3.S\Tietorakenteet ja algoritmit\Harjoitustyö - Etsintä- ja lajittelutestipeti\Etsintä- ja lajittelutestipeti\Etsintä- ja lajittelutestipeti\Random.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Record.cpp
+  Sortable_list.cpp
+  Timer.cpp
+  Utility.cpp
+  Generating Code...
+  Etsintä- ja lajittelutestipeti.vcxproj -> C:\Users\Jesse\OneDrive - TUNI.fi\AMK\3.S\Tietorakenteet ja algoritmit\Harjoitustyö - Etsintä- ja lajittelutestipeti\Etsintä- ja lajittelutestipeti\Debug\Etsintä- ja lajittelutestipeti.exe
